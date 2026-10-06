@@ -89,6 +89,7 @@ h3 {
   border: 1px solid var(--accent);
   padding: 10px 16px;
   width: fit-content;
+  margin-right: 10px;
 }
 
 section {
